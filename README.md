@@ -8,7 +8,7 @@ Tools
 Version: Python 2
 Requirements: VTK  / apple_obj.obj / apple_texture.jpg
 
-Instructions To Run the Code
+Instructions to Run the Code 
 Install VTK library
 Download the texture and object file to the same folder as the code (The mentioned files are included in the file)
 Check the VTK and Python Version
